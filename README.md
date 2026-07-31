@@ -71,7 +71,7 @@ Created an interactive Power BI dashboard to visualize customer segments and bus
 
 
 
-##Future Improvements
+## Future Improvements
 
 - Predict customer lifetime value.
 - Customer churn prediction.
